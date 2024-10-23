@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Log files
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+out/
+
+# Temporary files
+.DS_Store
+Thumbs.db
+
+# IDE or editor files
+.vscode/
+.idea/
+*.swp
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# OS generated files
+ehthumbs.db
+Icon?
+Desktop.ini
